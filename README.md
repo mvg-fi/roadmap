@@ -17,3 +17,15 @@ base:BTC,ETH,XIN,USDT,USDC,pUSD
 
 
 2. design a interface
+
+- feature page
+- swap
+- pools
+- my liquidity
+- overview
+
+- mobile version using mvm router
+
+
+Possible problems:
+routing
