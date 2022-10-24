@@ -4,16 +4,17 @@
 
 Stableswap:
 
-- USDT-ERC20 & USDT-TRC20 & pUSD & USDC
+- [ ] USDT-ERC20 & USDT-TRC20 & pUSD & USDC
 
 TriCrypto:
 
 base:BTC,ETH,XIN,USDT,USDC,pUSD
 
-- BTC & ETH & XIN & USDT
-- BTC & BOX
-- BTC & EOS
+- [ ] BTC & ETH & XIN & USDT
+- [ ] BTC & BOX
+- [ ] BTC & EOS
 ...
+Write a script to deploy all the pools
 
 
 2. design a interface
