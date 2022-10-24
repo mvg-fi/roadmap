@@ -14,6 +14,7 @@ base:BTC,ETH,XIN,USDT,USDC,pUSD
 - [ ] BTC & BOX
 - [ ] BTC & EOS
 ...
+
 Write a script to deploy all the pools
 
 
@@ -34,11 +35,11 @@ routing
 
 features:
 v1:
-based on mvm
-open source
-support single coin liquidity
+- based on mvm, backed by smart contract
+- open source， proven to be secure
+- support single coin liquidity
 
 v2:
-The most advanced AMM
-Concentrated liquidity
-More efficient,higher return than Uniswap v3
+- The most advanced AMM
+- Concentrated liquidity
+- More efficient,higher return than Uniswap v3
