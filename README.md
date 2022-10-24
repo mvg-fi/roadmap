@@ -30,3 +30,15 @@ Write a script to deploy all the pools
 
 Possible problems:
 routing
+
+
+features:
+v1:
+based on mvm
+open source
+support single coin liquidity
+
+v2:
+The most advanced AMM
+Concentrated liquidity
+More efficient,higher return than Uniswap v3
