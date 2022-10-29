@@ -17,6 +17,8 @@ base:BTC,ETH,XIN,USDT,USDC,pUSD
 
 Write a script to deploy all the pools
 
+Deploy a factory & registry for front-end
+
 
 2. design a interface
 
