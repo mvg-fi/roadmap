@@ -58,8 +58,8 @@ tricrypto: 0x67b818876bDde6EFd3004549E9a792e1def779c1
 ## Interface
 
 1. Swap page
-- [ ] Asset selector
-- [ ] Connect wallet selector
+- [0.5] Asset selector
+- [0.2] Connect wallet selector
 - [ ] Slippage setting
 - [ ] Fetch info from provider
 - [ ] Calculate exchange rate, slippage(price impact), route
@@ -72,3 +72,15 @@ tricrypto: 0x67b818876bDde6EFd3004549E9a792e1def779c1
 - [ ] Dark mode
 - [ ] i18n
 - [ ] Footer
+- [ ] Transitions
+- [ ] Height
+- [ ] Border (radius, transition, focus)
+
+4. Mobile version
+- [ ] UI WIP
+- [ ] Router
+
+TODO:
+- [ ] Select asset button on:click transition, border
+- [ ] Text font family
+- [ ] Connect wallet selector
