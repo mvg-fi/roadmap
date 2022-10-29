@@ -72,3 +72,8 @@ tricrypto: 0x67b818876bDde6EFd3004549E9a792e1def779c1
 - [ ] Dark mode
 - [ ] i18n
 - [ ] Footer
+
+TODO:
+- [ ] Select asset button on:click transition and border
+- [ ] Wallet selector
+- [ ] Font family
