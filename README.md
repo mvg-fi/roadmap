@@ -58,12 +58,14 @@ tricrypto: 0x67b818876bDde6EFd3004549E9a792e1def779c1
 ## Interface
 
 1. Swap page
-- [ ] Asset selector
+- [x] Asset selector
+- [x] Slippage setting
+- [ ] Connect wallet state
 - [ ] Connect wallet selector
-- [ ] Slippage setting
 - [ ] Fetch info from provider
-- [ ] Calculate exchange rate, slippage(price impact), route
 - [ ] Output dynamic value
+- [ ] Calculate exchange rate, slippage(price impact), route
+- [ ] Overall UI
 
 2. Pool page
 - [ ] WIP
@@ -77,3 +79,6 @@ TODO:
 - [ ] Select asset button on:click transition and border
 - [ ] Wallet selector
 - [ ] Font family
+
+
+Due date: 11.07
