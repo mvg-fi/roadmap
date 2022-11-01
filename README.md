@@ -82,7 +82,10 @@ tricrypto: 0x67b818876bDde6EFd3004549E9a792e1def779c1
 TODO:
 - [x] Select asset button on:click transition and border
 - [x] Wallet selector
-- [-] Font family
+- [ ] Font family
+- [ ] Read from contract,collect all necessary info
+- [ ] Build a data object for coins
+- [ ] Calculate all necessary fields
 
 
 Due date: 11.07
