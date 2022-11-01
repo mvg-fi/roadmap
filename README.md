@@ -60,25 +60,29 @@ tricrypto: 0x67b818876bDde6EFd3004549E9a792e1def779c1
 1. Swap page
 - [x] Asset selector
 - [x] Slippage setting
-- [ ] Connect wallet state
-- [ ] Connect wallet selector
+- [x] Connect wallet UI
+- [x] Connect wallet error handling
+- [x] Connect wallet state, determine connected (by provider)
 - [ ] Fetch info from provider
 - [ ] Output dynamic value
+- [ ] Account detail drop down
 - [ ] Calculate exchange rate, slippage(price impact), route
 - [ ] Overall UI
+- [ ] Toast
 
 2. Pool page
 - [ ] WIP
+- [ ] i18n issue
 
 3. Overall
 - [ ] Dark mode
-- [ ] i18n
 - [ ] Footer
+- [ ] Typography
 
 TODO:
-- [ ] Select asset button on:click transition and border
-- [ ] Wallet selector
-- [ ] Font family
+- [x] Select asset button on:click transition and border
+- [x] Wallet selector
+- [-] Font family
 
 
 Due date: 11.07
