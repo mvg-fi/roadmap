@@ -1,5 +1,8 @@
 # Roadmap
 
+
+## todolist 
+
 1. deploy and test multiple pools
 
 Stableswap:
@@ -40,7 +43,7 @@ features:
 
 v1:
 - Based on mvm, backed by smart contract
-- Open source， proven to be secure
+- Open source, proven to be secure
 - Support single coin liquidity
 
 v2:
@@ -67,14 +70,17 @@ tricrypto: 0x67b818876bDde6EFd3004549E9a792e1def779c1
 - [ ] Output dynamic value
 - [ ] Account detail drop down
 - [ ] Calculate exchange rate, slippage(price impact), route
-- [ ] Overall UI
-- [ ] Toast
 
 2. Pool page
-- [ ] WIP
-- [ ] i18n issue
+- [ ] Add liquidity
+- [ ] Remove liquidity
+- [ ] Show all liquidity
 
 3. Overall
+- [ ] Account widget
+- [ ] Overall UI
+- [ ] Toast
+- [ ] I18n issue
 - [ ] Dark mode
 - [ ] Footer
 - [ ] Typography
@@ -89,3 +95,10 @@ TODO:
 
 
 Due date: 11.07
+
+## Roadmap
+
+- [ ] AMM
+- [ ] Derivatives
+- [ ] etc..
+
