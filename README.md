@@ -99,6 +99,7 @@ Due date: 11.07
 ## Roadmap
 
 - [ ] AMM
+- [ ] DAO
 - [ ] Derivatives
 - [ ] etc..
 
