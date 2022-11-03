@@ -71,6 +71,24 @@ tricrypto: 0x67b818876bDde6EFd3004549E9a792e1def779c1
 - [ ] Account detail drop down
 - [ ] Calculate exchange rate, slippage(price impact), route
 
+ 1. If route is ok
+	- Swap is not available
+ 2. If InputAmount is valid
+	- Invalid amount
+ 3. Fetch from provider (get_dy)
+ 4. Show info of the trade
+ 5. Check if enough balance, check if enough gas fee
+	- Insufficient balance
+	- Insufficient ETH for gas
+ 6. Check if approved
+	- Show approve btn
+
+ Details
+ - route
+   fetch from registry by find_pool_for_coins(x,y), get pool address
+   fetch 
+
+
 2. Pool page
 - [ ] Add liquidity
 - [ ] Remove liquidity
@@ -78,9 +96,10 @@ tricrypto: 0x67b818876bDde6EFd3004549E9a792e1def779c1
 
 3. Overall
 - [ ] Account widget
+- [ ] Switch network widget
 - [ ] Overall UI
 - [ ] Toast
-- [ ] I18n issue
+- [x] I18n issue
 - [ ] Dark mode
 - [ ] Footer
 - [ ] Typography
