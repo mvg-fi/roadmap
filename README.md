@@ -70,6 +70,8 @@ tricrypto: 0x67b818876bDde6EFd3004549E9a792e1def779c1
 - [ ] Output dynamic value
 - [ ] Account detail drop down
 - [ ] Calculate exchange rate, slippage(price impact), route
+- [ ] Make all dialog able to close by clicking the overlay
+- [ ] Add a swap detail dropdown
 
  1. If route is ok
 	- Swap is not available
@@ -83,10 +85,11 @@ tricrypto: 0x67b818876bDde6EFd3004549E9a792e1def779c1
  6. Check if approved
 	- Show approve btn
 
- Details
- - route
-   fetch from registry by find_pool_for_coins(x,y), get pool address
-   fetch 
+ How to get routes?
+ 1. input(x,y) address
+ 2. get each (poolId,poolData) by getting all pools 
+ 3. get all (coins(wrapped,underlying,meta),coinIndex) of the pool
+ 4. loop wrapped_coin.length, 
 
 
 2. Pool page
@@ -107,18 +110,15 @@ tricrypto: 0x67b818876bDde6EFd3004549E9a792e1def779c1
 TODO:
 - [x] Select asset button on:click transition and border
 - [x] Wallet selector
-- [ ] Font family
-- [ ] Read from contract,collect all necessary info
-- [ ] Build a data object for coins
-- [ ] Calculate all necessary fields
+- [ ] Figure out how to make routing works
 
 
-Due date: 11.07
+Due date: 11.10
 
 ## Roadmap
 
 - [ ] AMM
 - [ ] DAO
 - [ ] Derivatives
+- [ ] MTG Service
 - [ ] etc..
-
