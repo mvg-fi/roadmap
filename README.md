@@ -98,6 +98,7 @@ tricrypto: 0x67b818876bDde6EFd3004549E9a792e1def779c1
 - [ ] Show all liquidity
 
 3. Overall
+- [ ] Curve js
 - [ ] Account widget
 - [ ] Switch network widget
 - [ ] Overall UI
