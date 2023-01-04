@@ -98,19 +98,30 @@ tricrypto: 0x67b818876bDde6EFd3004549E9a792e1def779c1
 - [ ] Show all liquidity
 
 3. Overall
-- [ ] Curve js
-- [ ] Account widget
+- [-] Curve js
+- [-] Account widget
 - [ ] Switch network widget
 - [ ] Overall UI
-- [ ] Toast
+- [-] Toast
 - [x] I18n issue
-- [ ] Dark mode
-- [ ] Footer
+- [x] Dark mode
 - [ ] Typography
 
 TODO:
 - [x] Select asset button on:click transition and border
 - [x] Wallet selector
+- [ ] 
+- [ ] Deposit process
+- [ ] Load pending deposit
+- [ ] Trace withdrawal
+- [ ] Show address and memo
+- [ ] Swap (mvgswapjs)
+- [ ] Pools (graph node)
+- [ ] Pools add remove liquidity
+- [ ] Dashboard for liquidity
+- [ ] messenger support
+
+1.21
 
 ## Roadmap
 
