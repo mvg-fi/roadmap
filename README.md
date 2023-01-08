@@ -126,6 +126,7 @@ TODO:
 ## Roadmap
 
 - [ ] MVG Bridge & Swap
+- [ ] NFT Bridge
 - [ ] Aragon MAO
 - [ ] Derivatives
 - [ ] etc..
